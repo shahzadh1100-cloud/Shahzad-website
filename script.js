@@ -41,7 +41,7 @@
     detailsLabel:["تفاصيل المشروع","Project details"], selectOption:["اختر الخدمة","Choose a service"],
     otherOption:["أخرى / أكثر من خدمة","Other / Multiple services"], sendButton:["إرسال عبر واتساب","Send via WhatsApp"],
     formNote:["سيتم فتح واتساب لإرسال رسالتك. لا نشارك معلوماتك.","WhatsApp will open to send your message. We do not share your information."],
-    footerLine:["أعمال البلاط والرخام والسلالم والمسابح · المملكة العربية السعودية","Tile, marble, stair and pool works · Kingdom of Saudi Arabia"]
+    footerLine:["أعمال البلاط والرخام والسلالم والمسابح · المملكة العربية السعودية","Tile, marble, stair and pool works · Kingdom of Saudi Arabia"], floatingWhatsApp:["تواصل عبر واتساب","Chat on WhatsApp"]
   };
 
   function setLanguage(lang) {
