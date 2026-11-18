@@ -112,3 +112,10 @@ h1 em,h2 em{font-family:var(--serif);font-weight:400}
 .floating-whatsapp:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.25)}
 .floating-whatsapp span:first-child{font-size:18px;line-height:1}
 @media(max-width:640px){.floating-whatsapp{bottom:14px;inset-inline-end:14px;padding:11px 15px;font-size:11px}}
+
+/* Keep the website focused on Shahzad's actual trade work only */
+.intro-stamp{display:none!important}
+.service-card,.service-photo{border-radius:2px}
+.service-info{padding-inline:0}
+.service-info h3{font-weight:700}
+.service-info p{max-width:34ch}
